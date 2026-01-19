@@ -1,0 +1,6 @@
+idx,ground_truth,explanation,mentioned_features,heatmap_intensity
+227,Angrily disgusted,Question: Describe the emotional state of this person and explain why. Answer: angry,[],"{'upper_face': np.float16(0.01367), 'middle_face': np.float16(0.01389), 'lower_face': np.float16(0.005875)}"
+796,Happily surprised,Question: Describe the emotional state of this person and explain why. Answer: she is very happy and very sad at the same time,[],"{'upper_face': np.float16(0.0662), 'middle_face': np.float16(0.0359), 'lower_face': np.float16(0.02397)}"
+375,Happily disgusted,Question: Describe the emotional state of this person and explain why. Answer: he was very happy,[],"{'upper_face': np.float16(0.03021), 'middle_face': np.float16(0.01822), 'lower_face': np.float16(0.00995)}"
+379,Sadly disgusted,Question: Describe the emotional state of this person and explain why. Answer: i think he is very happy,[],"{'upper_face': np.float16(0.01999), 'middle_face': np.float16(0.02983), 'lower_face': np.float16(0.01857)}"
+10,Sadly surprised,Question: Describe the emotional state of this person and explain why. Answer: she was very sad and upset,[],"{'upper_face': np.float16(0.04492), 'middle_face': np.float16(0.0281), 'lower_face': np.float16(0.03574)}"

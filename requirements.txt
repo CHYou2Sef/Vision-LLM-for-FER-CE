@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+peft
+accelerate
+bitsandbytes
+scikit-learn
+pandas
+matplotlib
+seaborn
+pillow
+jupyterlab
